@@ -1,228 +1,244 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Radheshyam%20Bhati&fontSize=72&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI%20%C2%B7%20Education%20%C2%B7%20Systems%20%C2%B7%20Impact&descAlignY=58&descAlign=50&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" alt="Header" />
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:4f46e5,100:7c3aed&height=320&section=header&text=Radheshyam%20Bhati&fontSize=75&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=Builder.%20Thinker.%20Founder.&descAlignY=60&descSize=22&descAlign=50&stroke=a78bfa&strokeWidth=2" width="100%" />
+
 </div>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Problem-first+builder.+Not+a+resume+builder.;Turning+India%27s+learning+crisis+into+a+product.;Founder+of+ConceptPulse+%E2%80%94+Precision+Learning+Platform.;If+it+doesn%27t+solve+a+real+problem%2C+I+don%27t+build+it." alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://radheshyam-cod.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-6d28d9?style=for-the-badge&labelColor=1e1b4b"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/radheshyam-bhati-ab9487381/">
-    <img src="https://img.shields.io/badge/LinkedIn-Radheshyam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=radheshyam-cod&style=for-the-badge&color=7c3aed&label=Profile+Views" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=🚀+Founder+of+ConceptPulse+—+AI+Learning+Platform;🇮🇳+Building+for+India%27s+300M%2B+students;🧠+Problem-first.+Not+resume-first.;🔍+I+diagnose+before+I+build.;⚡+Turning+India%27s+learning+crisis+into+a+product." alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- SOCIAL + VISITOR BADGES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=radheshyam-cod&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1" alt="Trophies" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6d28d9?style=for-the-badge&labelColor=1e1b4b)](https://radheshyam-cod.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati-ab9487381/)
+[![Profile Views](https://komarev.com/ghpvc/?username=radheshyam-cod&style=for-the-badge&color=7c3aed&label=Visitors)](https://github.com/radheshyam-cod)
+
 </div>
 
-<br/>
 <br/>
 
 ---
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ## 👤 Who I Am
 
-```
-B.Tech CSE · PW Institute of Innovation · Batch 2025
-Building at the intersection of AI, behavioral science, and education systems.
-Focus: India's 300M+ student population — where motivation loss and blind
-studying are the real enemies, not lack of content.
+```yaml
+name      : Radheshyam Bhati
+degree    : B.Tech CSE @ PW Institute of Innovation
+batch     : 2025
+location  : India 🇮🇳
+role      : Founder · Builder · Problem Solver
+mission   : Fix how India learns, one concept at a time
 ```
 
-I'm not interested in building things that look impressive in a portfolio. I care about **why** learning systems fail — and then building the fix.
-
-- 🎯 I start with **diagnosis**, not features
+- 🔭 Building **ConceptPulse** — AI Precision Learning Platform
+- 🧠 I start with **diagnosis**, not features
 - 🔁 I think in **systems**, not one-off solutions
-- 🇮🇳 I build for **real Indian constraints**: low bandwidth, high distraction, no personalization
-- ⚡ Comfortable in **ambiguity** — I iterate fast and validate faster
+- ⚡ Comfortable in **ambiguity** — iterate fast, validate faster
+- 💡 Philosophy: *"If it doesn't solve a real problem, I don't build it."*
 
-<br/>
+<br clear="right"/>
 
 ---
 
-## 🚀 ConceptPulse — What I'm Building
+## 🚀 ConceptPulse — My Flagship Project
+
+<div align="center">
 
 > **"Moving Indian education from reactive coaching to preventive learning."**
 
-The root problem I'm solving: **Blind Studying** — students who put in hours but can't identify *where* their understanding actually breaks.
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### The Problem
-- 📉 Students study for 6–8 hrs/day with no feedback loop
-- 🕳️ Concept gaps silently compound over weeks
-- 😶 No system detects *where* understanding breaks
-- 🔁 Revision happens too late — the night before exams
+### ❌ The Real Problem
+```
+Students study 6–8 hrs/day
+  → No feedback loop
+  → Gaps compound silently
+  → Realize too late (exam night)
+  → Repeat the cycle
+```
 
 </td>
 <td width="50%" valign="top">
 
-### The Fix: ConceptPulse
-- 🔍 **Gap Detection** — AI diagnoses concept holes in < 30 seconds
-- 🧠 **Targeted Fixes** — 5–7 min corrections, no bloated video lectures
-- 🔁 **Spaced Repetition** — Enforced: Day 1 → 3 → 7 → 15 → 30
-- 📊 **Behavioral Tracking** — Detects focus drops and avoidance patterns before they become habits
-
-</td>
-</tr>
-</table>
-
-**Status:** Actively Building &nbsp;|&nbsp; **Stage:** Early Product &nbsp;|&nbsp; **Horizon:** Long-term mission
-
-<br/>
-
----
-
-## 🏆 Hackathons & Real-World Work
-
-### 🛡️ Hack4Safety — National Cyber Security Hackathon 2025
-**Role:** Team Lead · Team: Safe Cypher · Project: ScamShield App
-
-Built a full AI-powered mobile security system targeting India's rising UPI scam epidemic.
-
-| What | How |
-|------|-----|
-| 🔐 Privacy-by-Design | On-device federated AI — no data leaves the phone |
-| ⛓️ Evidence Integrity | Blockchain-based immutable logging for FIR filing |
-| 🚨 Rapid Response | Automated UPI freeze + Auto FIR generation workflow |
-| 🗺️ Localization | Odisha-specific & regional language safety features |
-
-> *Approach: Citizen safety at scale, Zero-Trust architecture, real feasibility constraints.*
-
-<br/>
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,nextjs,react,tailwind,git,figma,linux,vscode&perline=11&theme=dark" />
-</div>
-
-<br/>
-
-<table align="center" width="90%">
-<tr>
-  <th>🤖 AI & Systems</th>
-  <th>📊 Data & Visualization</th>
-  <th>🛡️ Cybersecurity</th>
-  <th>🎨 Design & Frontend</th>
-</tr>
-<tr>
-<td valign="top">
-
-- Prompt Engineering
-- Adaptive Learning Logic
-- AI/ML Fundamentals
-- Behavioral AI Design
-
-</td>
-<td valign="top">
-
-- Power BI
-- Dashboard Systems
-- Data Reporting
-- Pattern Analysis
-
-</td>
-<td valign="top">
-
-- Threat Modeling
-- Zero-Trust Architecture
-- Security Fundamentals
-- Federated AI
-
-</td>
-<td valign="top">
-
-- Figma
-- React + Tailwind
-- Next.js
-- System UI Design
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🧠 How I Think
-
-```diff
-# My Builder Philosophy
-
-- Build for resumes
-+ Build for real people with real problems
-
-- Jump to solutions
-+ Diagnose first, then design
-
-- "What can I add?"
-+ "What's actually failing and why?"
-
-! I care more about system behavior than code elegance.
-! Speed of iteration > perfection of first draft.
-! If I can't explain who benefits and how — I don't ship it.
+### ✅ ConceptPulse Solution
+```
+🔍 Gap Detection   < 30 seconds
+🧠 Targeted Fix    5–7 min corrections
+🔁 Spaced Reps     Day 1→3→7→15→30
+📊 Behavior Track  Focus & avoidance AI
 ```
 
-<br/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Actively_Building-22c55e?style=for-the-badge&labelColor=14532d)
+![Stage](https://img.shields.io/badge/Stage-Early_Product-f59e0b?style=for-the-badge&labelColor=78350f)
+![Mission](https://img.shields.io/badge/Horizon-Long_Term-a78bfa?style=for-the-badge&labelColor=1e1b4b)
+
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 🏆 Hackathons
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radheshyam-cod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheshyam-cod&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="48%" />
-</div>
+<details>
+<summary><b>🛡️ Hack4Safety — National Cyber Security Hackathon 2025</b> &nbsp;(click to expand)</summary>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radheshyam-cod&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
-</div>
+**Role:** Team Lead &nbsp;·&nbsp; **Team:** Safe Cypher &nbsp;·&nbsp; **Product:** ScamShield App
 
-<br/>
+Targeted India's rising UPI scam epidemic with a full AI-powered mobile security system.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radheshyam-cod&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true&area=true&area_color=a78bfa" width="100%" />
-</div>
+| Feature | Implementation |
+|:--------|:---------------|
+| 🔐 Privacy-by-Design | On-device federated AI — no data leaves the phone |
+| ⛓️ Evidence Integrity | Blockchain-based immutable logging for legal FIR filing |
+| 🚨 Rapid Response | Automated UPI freeze + Auto-FIR generation in one flow |
+| 🗺️ Localization | Odisha-specific & regional language safety integration |
 
-<br/>
+> *Zero-Trust Architecture · Citizen-Scale Thinking · Real Feasibility Constraints*
+
+</details>
 
 ---
 
-## 📬 Let's Connect
-
-If you're working on **AI for education**, **cybersecurity for citizens**, or **product thinking for India** — I want to talk.
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/radheshyam-bhati-ab9487381/">
-    <img src="https://img.shields.io/badge/DM_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://radheshyam-cod.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/See_My_Work-6d28d9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+
+### Languages & Frameworks
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cppreference.com)
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://en.cppreference.com/w/c)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)
+
+### Tools & Platforms
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://kernel.org)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Building+problems+worth+solving.&fontSize=18&fontAlignY=55&fontColor=a78bfa" width="100%" />
+
+| 🤖 AI & Systems | 📊 Data | 🛡️ Cybersecurity | 🎨 Design |
+|:-:|:-:|:-:|:-:|
+| Prompt Engineering | Power BI | Threat Modeling | Figma |
+| Adaptive Logic | Dashboards | Zero-Trust | React + Tailwind |
+| ML Fundamentals | Pattern Analysis | Federated AI | System UI |
+| Behavioral AI | Reporting | Security Fundamentals | Next.js |
+
+</div>
+
+---
+
+## 🧠 Builder Philosophy
+
+```diff
+@@  How I Approach Every Problem  @@
+
+- Build features first
++ Diagnose the root failure first
+
+- "What should I add?"
++ "What is actually breaking and why?"
+
+- Optimize for looking busy
++ Optimize for real-world impact
+
+! I care about WHY systems fail — not just how to code them.
+! Speed of iteration > perfection of first draft.
+! If I can't name who benefits and how → I don't ship it.
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radheshyam-cod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radheshyam-cod&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheshyam-cod&layout=donut&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8" width="40%" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radheshyam-cod/radheshyam-cod/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radheshyam-cod/radheshyam-cod/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/radheshyam-cod/radheshyam-cod/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=radheshyam-cod&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ec4899&hide_border=true&area=true&area_color=6d28d9&radius=6" width="100%" />
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=radheshyam-cod&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" />
+</div>
+
+---
+
+## 📬 Let's Build Something Real
+
+<div align="center">
+
+If you're working on **AI for Education**, **Cybersecurity for citizens**, or **Product thinking for India** — I want to talk.
+
+<br/>
+
+[![LinkedIn DM](https://img.shields.io/badge/DM_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati-ab9487381/)
+[![See My Work](https://img.shields.io/badge/See_My_Work-6d28d9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://radheshyam-cod.github.io/Portfolio/)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Building+problems+worth+solving.&fontSize=18&fontAlignY=55&fontColor=a78bfa&animation=twinkling" width="100%" />
 </div>
