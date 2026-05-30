@@ -18,7 +18,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati-ab9487381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=flat-square&logo=vercel&logoColor=00d2ff)](https://radheshyam-cod.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:radheshyambhati747@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=radheshyam-cod&style=flat-square&color=00d2ff&label=Views)](https://github.com/radheshyam-cod)
@@ -28,7 +28,8 @@
 
 ```js
 const rb = {
-  status   : "🟢 Building · Open to Collabs",
+  status   : "🟢 MVP Shipped · Private Beta",
+  education: "B.Tech CSE · PW Institute of Innovation",
   building : "ConceptPulse",
   mission  : "Preventive learning for India",
   approach : "Diagnose → Build → Ship",
@@ -42,11 +43,11 @@ const rb = {
 
 <br/>
 
-> *300 million students. One broken feedback loop. I'm fixing the root — not the symptoms.*
+> *300 million students. One broken feedback loop. I shipped the fix — root cause, not symptom.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati-ab9487381/)
+[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati/)
 [![Portfolio](https://img.shields.io/badge/See_Portfolio-0a0a0f?style=flat-square&logo=vercel&logoColor=00d2ff)](https://radheshyam-cod.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email_Me-0a0a0f?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:radheshyambhati747@gmail.com)
 
@@ -57,10 +58,10 @@ const rb = {
 ## `// right_now`
 
 ```yaml
-Building : ConceptPulse — gap detection + spaced repetition engine (MVP phase)
-Learning : RAG pipelines · Behavioral signal modeling · Product-Led Growth
-Reading  : Zero to One · The Mom Test · Thinking in Systems
-Seeking  : Beta testers (JEE/NEET) · Technical co-builders · EdTech advisors
+Shipped  : ConceptPulse MVP — gap detection + spaced repetition engine live
+Stage    : Private beta · not yet public · deployment in progress
+Learning : RAG architectures · Behavioral AI modeling · EdTech product strategy
+Seeking  : Beta testers from JEE/NEET ecosystem · Technical co-builders
 ```
 
 ---
@@ -69,7 +70,7 @@ Seeking  : Beta testers (JEE/NEET) · Technical co-builders · EdTech advisors
 
 ## `// flagship_project`
 
-### **ConceptPulse** &nbsp;&nbsp; `● ACTIVELY BUILDING`
+### **ConceptPulse** &nbsp;&nbsp; `● MVP BUILT · PRIVATE BETA`
 
 > **The problem isn't effort. It's the absence of feedback.** Indian students study 6–8 hours a day and still fail — because no one tells them *which concept* is silently breaking their understanding until the exam does. ConceptPulse changes that.
 
@@ -106,7 +107,20 @@ Seeking  : Beta testers (JEE/NEET) · Technical co-builders · EdTech advisors
 </tr>
 </table>
 
-<sub>**Stage** Early Product &nbsp;|&nbsp; **Target** 300M+ students &nbsp;|&nbsp; **Stack** Next.js · TensorFlow · Behavioral AI</sub>
+<br/>
+
+**`// mvp_status`**
+
+```
+✓  Concept gap detection engine   →  identifies breaks in <30s          [SHIPPED]
+✓  Spaced repetition scheduler    →  Day 1 · 3 · 7 · 15 · 30 cadence   [SHIPPED]
+✓  Micro-repair session engine    →  5–7 min targeted concept fixes      [SHIPPED]
+◎  Avoidance pattern detection    →  behavioral AI layer                 [IN PROGRESS]
+◎  Student analytics dashboard    →  study pattern visualization         [IN PROGRESS]
+◻  Public deployment              →  post-beta polish + hardening        [COMING SOON]
+```
+
+<sub>**Stage** MVP Shipped · Private Beta &nbsp;|&nbsp; **Target** 300M+ students &nbsp;|&nbsp; **Stack** Next.js · TensorFlow · Behavioral AI</sub>
 
 ---
 
@@ -137,6 +151,18 @@ Built a privacy-first, zero-trust fraud detection system under full competition 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ══════════════════════════════════════════════ EDUCATION -->
+
+## `// education`
+
+```yaml
+Institution    : PW Institute of Innovation
+Degree         : B.Tech Computer Science Engineering
+Specialization : Artificial Intelligence · Systems Design · Cybersecurity
+```
 
 ---
 
@@ -204,7 +230,6 @@ Built a privacy-first, zero-trust fraud detection system under full competition 
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f05032)
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=a855f7)
 ![VSCode](https://img.shields.io/badge/VSCode-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Power BI](https://img.shields.io/badge/Power_BI-0f172a?style=flat-square&logo=powerbi&logoColor=f59e0b)
 
 </td>
 </tr>
@@ -265,7 +290,7 @@ Built a privacy-first, zero-trust fraud detection system under full competition 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati-ab9487381/)
+[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radheshyam-bhati/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/See_My_Work-0f172a?style=for-the-badge&logo=vercel&logoColor=00d2ff)](https://radheshyam-cod.github.io/Portfolio/)
 &nbsp;
